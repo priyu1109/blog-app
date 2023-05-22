@@ -1,0 +1,10 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+ 
+}
+body{
+  font-family:'roboto' ,sans-serif;
+  background-image: url("https://thumbs.dreamstime.com/b/feminine-pink-desktop-workspace-blog-header-overhead-flat-lay-theme-laptop-stylish-textured-background-top-view-hero-198201286.jpg")
+}
